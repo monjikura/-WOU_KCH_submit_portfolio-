@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Ascii85
 ABSTRACT:
 ... FaaS microkernel-like driver for "embedded /dev/0". WARNING: this is a STUDENT project repo.
 to rfc SDK, kindly email girlsuckrubber@gmail.com
-[ I am not responsible for any complications, use as ]  
+[ I am not responsible for any complications, use as is ]  
 
 when $cat 'sticky'
 ...
