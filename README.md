@@ -4,6 +4,9 @@ JT_75 304 Avanzaretech Virtual Sdn Bhd
 https://en.wikipedia.org/wiki/Ascii85
 
 ABSTRACT:
+... FaaS microkernel-like driver for "embedded /dev/0". WARNING: this is a STUDENT project repo.
+to rfc SDK, kindly email girlsuckrubber@gmail.com
+[ I am not responsible for any complications, use as ]  
 
 when $cat 'sticky'
 ...
