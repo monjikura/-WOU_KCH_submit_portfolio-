@@ -8,6 +8,9 @@ ABSTRACT:
 to rfc SDK, kindly email girlsuckrubber@gmail.com
 [ I am not responsible for any complications, use as is ]  
 
+abi is from /local/arch-env/
+( please amend your inode accordingly )
+
 when $cat 'sticky'
 ...
 Neumann architecture externally, and the Harvard architecture internally. The STM32 fetches instructions (from Flash) and data (from SRAM) separately, so the STM32 is a Harvard architecture
