@@ -16,3 +16,5 @@ when $cat 'sticky'
 Neumann architecture externally, and the Harvard architecture internally. The STM32 fetches instructions (from Flash) and data (from SRAM) separately, so the STM32 is a Harvard architecture
 
 OBJECTIVES:
+...
+https://en.m.wikipedia.org/wiki/Kirchhoff_integral_theorem
