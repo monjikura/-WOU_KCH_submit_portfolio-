@@ -14,3 +14,5 @@ abi is from /local/arch-env/
 when $cat 'sticky'
 ...
 Neumann architecture externally, and the Harvard architecture internally. The STM32 fetches instructions (from Flash) and data (from SRAM) separately, so the STM32 is a Harvard architecture
+
+OBJECTIVES:
