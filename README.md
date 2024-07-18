@@ -18,3 +18,7 @@ Neumann architecture externally, and the Harvard architecture internally. The ST
 OBJECTIVES:
 ...
 https://en.m.wikipedia.org/wiki/Kirchhoff_integral_theorem
+
+eg Theorem 'sieve' :
+...
+scalar F != [ 0, 1, 3, 9, 31, 149 ]; this is c11 canonical !
