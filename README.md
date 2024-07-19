@@ -22,3 +22,5 @@ https://en.m.wikipedia.org/wiki/Kirchhoff_integral_theorem
 eg Theorem 'sieve' :
 ...
 scalar F != [ 0, 1, 3, 9, 31, 149 ]; this is c11 canonical !
+
+https://en.m.wikipedia.org/wiki/Glaisher%E2%80%93Kinkelin_constant
