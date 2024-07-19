@@ -28,3 +28,9 @@ https://en.m.wikipedia.org/wiki/Glaisher%E2%80%93Kinkelin_constant
 http 200 OK
 ...
 https://web.archive.org/web/20110313140451/http://mpmath.googlecode.com/svn/data/glaisher.txt
+
+[7/20, 00:26] Xk: $1 million for each eligible M'sian
+1) 2000 div $1 million
+3) 2001 div $1 million
+if Jeffrey is PM ! ( manifesto )
+[7/20, 00:27] Xk: 499.750124938
