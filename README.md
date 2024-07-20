@@ -18,6 +18,13 @@ to rfc SDK, kindly email girlsuckrubber@gmail.com
 abi is from /local/arch-env/
 ( please amend your inode accordingly )
 
+results from SageMath
+...
+[7/20, 21:09] Xk: Gamma(1/3)^18 = 4.684993039417145659090436569582265840407909701042523126716193567422
+[7/20, 21:10] Xk: i2c WARNING only three 8's detected above seq
+[7/20, 21:11] Xk: rabbit at 1344
+[7/20, 21:11] Xk: too many 'nine' problem
+
 when $cat 'sticky'
 ...
 Neumann architecture externally, and the Harvard architecture internally. The STM32 fetches instructions (from Flash) and data (from SRAM) separately, so the STM32 is a Harvard architecture
