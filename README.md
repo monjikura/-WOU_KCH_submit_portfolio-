@@ -37,3 +37,8 @@ https://web.archive.org/web/20110313140451/http://mpmath.googlecode.com/svn/data
 3) 2001 div $1 million
 if Jeffrey is PM ! ( manifesto )
 [7/20, 00:27] Xk: 499.750124938
+
+[7/20, 13:09] Xk: from Fischer, ( white 'must' castle on the 18th mov or die !!' )
+[7/20, 13:29] Xk: i2c x3 white "bishopgate"
+[7/20, 13:30] Xk: white must "castle" on the 2002 mov !!
+[7/20, 13:31] Xk: Bobby Fischer 17 mov checkmate
