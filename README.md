@@ -1,6 +1,9 @@
 # -WOU_KCH_submit_portfolio-
 # com.girl.brashcrab
 JT_75 304 Avanzaretech Virtual Sdn Bhd
+Here’s proof you must pay RM100mil for defecting, Asyraf tells rogue Umno rep
+
+https://www.freemalaysiatoday.com/category/nation/2024/07/20/heres-proof-you-must-pay-rm100mil-for-defecting-asyraf-tells-rogue-umno-rep/
 https://youtu.be/fDmzid4t5f8?si=gdRkmmqTzmODpC_U
 
 ...
