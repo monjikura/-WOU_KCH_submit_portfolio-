@@ -42,3 +42,5 @@ if Jeffrey is PM ! ( manifesto )
 [7/20, 13:29] Xk: i2c x3 white "bishopgate"
 [7/20, 13:30] Xk: white must "castle" on the 2002 mov !!
 [7/20, 13:31] Xk: Bobby Fischer 17 mov checkmate
+
+8883 gives the A089840-index of the nonrecursive Catalan automorphism which is formed from A089840[n] by applying it to the left subtree of a binary tree and leaving the right-hand side subtree intact
