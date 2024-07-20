@@ -44,3 +44,5 @@ if Jeffrey is PM ! ( manifesto )
 [7/20, 13:31] Xk: Bobby Fischer 17 mov checkmate
 
 8883 gives the A089840-index of the nonrecursive Catalan automorphism which is formed from A089840[n] by applying it to the left subtree of a binary tree and leaving the right-hand side subtree intact
+
+If the count of fixed points of the automorphism A089840[n] is given by sequence f, then the count of fixed points of the automorphism A089840[A123694(n)] is given by CONV(f,A000108) (where CONV stands for convolution). See also the comments at A122200.
