@@ -59,3 +59,4 @@ if Jeffrey is PM ! ( manifesto )
 If the count of fixed points of the automorphism A089840[n] is given by sequence f, then the count of fixed points of the automorphism A089840[A123694(n)] is given by CONV(f,A000108) (where CONV stands for convolution). See also the comments at A122200.
 
 Perl say https://oeis.org/A360914 #!never $die
+148 is nos of SEX with girl for 'z' octant July 21st, 2024
