@@ -1,5 +1,8 @@
 # -WOU_KCH_submit_portfolio-
 # com.girl.brashcrab
+
+https://www.snpedia.com/
+
 JT_75 304 Avanzaretech Virtual Sdn Bhd
 Here’s proof you must pay RM100mil for defecting, Asyraf tells rogue Umno rep
 
