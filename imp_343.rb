@@ -6,7 +6,7 @@
 
  int main() {
 
-    110;
+    assembly extern 110;
 
  }
 
