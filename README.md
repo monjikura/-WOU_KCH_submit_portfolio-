@@ -12,6 +12,8 @@ https://www.freemalaysiatoday.com/category/nation/2024/07/20/heres-proof-you-mus
 sample code:
 #!https://github.com/OneSignal/OneSignal-Android-SDK/pull/2138
 
+/* Rooks can move up to 14 squares from any square on the board; Bishops have a maximum range only from the center 4 squares and that range diminishes quickly from board edges */
+
 #pragma fe as felicia;
 
  void girl();
