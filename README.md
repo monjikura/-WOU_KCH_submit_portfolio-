@@ -1,5 +1,6 @@
 # -WOU_KCH_submit_portfolio-
 # com.girl.brashcrab
+# https://support.ntp.org/
 
 https://www.snpedia.com/
 
