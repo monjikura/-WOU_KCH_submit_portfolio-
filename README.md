@@ -40,6 +40,10 @@ to rfc SDK, kindly email girlsuckrubber@gmail.com
 abi is from /local/arch-env/
 ( please amend your inode accordingly )
 
+...
+
+https://octave.org/
+
 results from SageMath
 ...
 [7/20, 21:09] Xk: Gamma(1/3)^18 = 4.684993039417145659090436569582265840407909701042523126716193567422
