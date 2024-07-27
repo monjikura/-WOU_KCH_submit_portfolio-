@@ -1,5 +1,7 @@
 // for Knight's tour
- // problem using Warnsdorff's algorithm
+// problem using Warnsdorff's algorithm
+// Russian Ministry of Foreign Affairs 
+/* until his death in 1764 */
 
  class girl_pee {
 
