@@ -2,6 +2,12 @@
 # com.girl.brashcrab
 # https://support.ntp.org/
 
+0036 of $1000.00
+...
+Political will needed to rid police of corruption, says ex-EAIC commissioner
+
+https://www.freemalaysiatoday.com/category/nation/2024/07/27/political-will-needed-to-rid-police-of-corruption-says-ex-eaic-commissioner/
+
 https://www.snpedia.com/
 [ The 1953 Iranian coup d'état, known in Iran as the 28 Mordad coup d'état (Persian: کودتای ۲۸ مرداد) ]
 
