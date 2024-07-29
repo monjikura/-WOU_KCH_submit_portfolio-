@@ -1,5 +1,6 @@
 # -WOU_KCH_submit_portfolio-
 # com.girl.brashcrab
+# Clause 35 (q) of the 2024 CO[]i
 # https://support.ntp.org/
 
 0036 of $1000.00
