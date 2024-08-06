@@ -50,6 +50,12 @@ https://youtu.be/fDmzid4t5f8?si=gdRkmmqTzmODpC_U
 ...
 https://en.wikipedia.org/wiki/Ascii85
 
+...
+https://www.sarawakreport.org/2016/04/why-did-najib-give-sarawaks-bustari-yusof-a-million-ringgit/
+...
+DISCLAIMER - for #ansi #ascii typo research only
+
+
 ABSTRACT:
 ... FaaS microkernel-like driver for "embedded /dev/0". WARNING: this is a STUDENT project repo.
 to rfc SDK, kindly email girlsuckrubber@gmail.com
