@@ -6,6 +6,12 @@
 0036 of $1000.00
 ...
 Political will needed to rid police of corruption, says ex-EAIC commissioner
+...
+Section 91(1)b of Road Transport Act 1987 ... "construction area does not fall under definition of a road" ... insurer is RHB
+( disclaimer Free Malaysia Today )
+Construction site mishap not on ‘road’, court refuses widow leave
+
+https://www.freemalaysiatoday.com/category/nation/2024/08/06/construction-site-mishap-not-on-road-court-refuses-widow-leave/
 
 https://www.freemalaysiatoday.com/category/nation/2024/07/27/political-will-needed-to-rid-police-of-corruption-says-ex-eaic-commissioner/
 
