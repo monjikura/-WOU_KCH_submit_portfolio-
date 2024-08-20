@@ -28,6 +28,8 @@ https://www.freemalaysiatoday.com/category/nation/2024/07/20/heres-proof-you-mus
 Conway 0341 += 6
 [7/29, 02:15] Xk: $1752.71 cents mistake
 
+The Grob was also forced upon Anatoly Karpov by former Soviet premier Mikhail Gorbachev in a friendly match against Susan Polgar in Lindsborg, Kansas 2005. Gorbachev made the ceremonial first move and played 1.g4. Normally players can simply retract ceremonial moves they do not like. In this case Gorbachev insisted Karpov play on, saying he wanted to "cause some difficulties for the older player.
+
 sample code:
 #!https://github.com/OneSignal/OneSignal-Android-SDK/pull/2138
 
