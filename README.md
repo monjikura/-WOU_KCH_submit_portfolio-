@@ -1,5 +1,6 @@
 # -WOU_KCH_submit_portfolio-
 # com.girl.brashcrab
+# Indranil Ghosh, Table of n, a(n) for n = 0..50000 (first 1001 terms from Franklin T. Adams-Watters)
 # https://github.com/trailofbits/publications/blob/master/reviews/2023-08-28-homebrew-securityreview.pdf
 # Clause 35 (q) of the 2024 CO[]i
 # https://support.ntp.org/
