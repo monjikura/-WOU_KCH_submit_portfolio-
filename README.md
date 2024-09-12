@@ -10,6 +10,7 @@
 # https://github.com/trailofbits/publications/blob/master/reviews/2023-08-28-homebrew-securityreview.pdf
 # Clause 35 (q) of the 2024 CO[]i
 # https://support.ntp.org/
+# https://code.nsa.gov/
 
 0036 of $1000.00
 ...
